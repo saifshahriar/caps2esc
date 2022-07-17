@@ -1,0 +1,2 @@
+*CapsLock:: Escape
+*Escape:: CapsLock

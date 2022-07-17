@@ -1,8 +1,8 @@
 # caps2esc
-Remap you Esc key to CAPS LOCK throughout Windows. Perfect weapon for VIM users.
+Remap you Esc key to CAPS LOCK throughout Windows. Perfect weapon for <a href="https://github.com/vim/vim">VIM</a> users.
 
 # Installation
-- Grab the latest `windows executable` from the <a href="">release</a> section and run it. 
+- Grab the latest `windows executable` from the <a href="https://github.com/saifshahriar/caps2esc/releases/">release</a> section and run it. 
 - ### Autostart
   - To autostart the programme at startup, place the executable under the `startup` directory eg. `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`
   

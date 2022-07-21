@@ -1,5 +1,5 @@
 # caps2esc
-Remap you Esc key to CAPS LOCK throughout Windows. Perfect weapon for <a href="https://github.com/vim/vim">VIM</a> users.
+Remap your Esc key to CAPS LOCK throughout Windows. Perfect weapon for <a href="https://github.com/vim/vim">VIM</a> users.
 
 # Installation
 - Grab the latest `windows executable` from the <a href="https://github.com/saifshahriar/caps2esc/releases/">release</a> section and run it. 
